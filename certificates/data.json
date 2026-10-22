@@ -1,0 +1,114 @@
+[
+ {
+  "title": "Introduction to Cybersecurity",
+  "issuer": "Cisco",
+  "date": "Jul 2026",
+  "img": "img/cisco-cybersecurity.jpg",
+  "verify": ""
+ },
+ {
+  "title": "The AI Filmmaking Pipeline",
+  "issuer": "Higgsfield",
+  "date": "Jul 2026",
+  "img": "img/higgsfield-filmmaking.jpg",
+  "verify": ""
+ },
+ {
+  "title": "Professional Foundations",
+  "issuer": "ALX",
+  "date": "May 2026",
+  "img": "img/alx-professional-foundations.jpg",
+  "verify": "https://savanna.alxafrica.com/certificates/z8YyH3ETne"
+ },
+ {
+  "title": "Introduction to Agent Skills",
+  "issuer": "Anthropic",
+  "date": "May 2026",
+  "img": "img/anthropic-agent-skills.jpg",
+  "verify": ""
+ },
+ {
+  "title": "Claude Code in Action",
+  "issuer": "Anthropic",
+  "date": "Apr 2026",
+  "img": "img/anthropic-claude-code.jpg",
+  "verify": "https://verify.skilljar.com/c/p9f796k6abmh"
+ },
+ {
+  "title": "Crash Course: AWS Basics",
+  "issuer": "KodeKloud",
+  "date": "Feb 2026",
+  "img": "img/kodekloud-aws.jpg",
+  "verify": ""
+ },
+ {
+  "title": "Git and GitHub",
+  "issuer": "365 Data Science",
+  "date": "Nov 2025",
+  "img": "img/365-git-github.jpg",
+  "verify": ""
+ },
+ {
+  "title": "ChatGPT for SQL Beginners",
+  "issuer": "365 Data Science",
+  "date": "Nov 2025",
+  "img": "img/365-chatgpt-sql.jpg",
+  "verify": ""
+ },
+ {
+  "title": "Google AI Essentials",
+  "issuer": "Google",
+  "date": "Nov 2025",
+  "img": "img/google-ai-essentials.jpg",
+  "verify": "https://coursera.org/verify/5XQ6B7K920MT"
+ },
+ {
+  "title": "Data Analysis with ChatGPT",
+  "issuer": "365 Data Science",
+  "date": "Nov 2025",
+  "img": "img/365-data-analysis-chatgpt.jpg",
+  "verify": ""
+ },
+ {
+  "title": "Understanding Data Science",
+  "issuer": "DataCamp",
+  "date": "Nov 2025",
+  "img": "img/datacamp-understanding-ds.jpg",
+  "verify": ""
+ },
+ {
+  "title": "AI Fundamentals",
+  "issuer": "DataCamp",
+  "date": "Nov 2025",
+  "img": "img/datacamp-ai-fundamentals.jpg",
+  "verify": ""
+ },
+ {
+  "title": "AI Career Essentials",
+  "issuer": "ALX",
+  "date": "Aug 2024",
+  "img": "img/alx-ai-career-essentials.jpg",
+  "verify": "https://intranet.alxswe.com/certificates/mnM38Y7BSf"
+ },
+ {
+  "title": "Master Adobe Illustrator",
+  "issuer": "Udemy",
+  "date": "Mar 2024",
+  "img": "img/udemy-illustrator.jpg",
+  "verify": "https://ude.my/UC-c4046809-ad0d-4c4f-ac72-a07e82c4d784"
+ },
+ {
+  "title": "Adobe Photoshop CC",
+  "issuer": "Udemy",
+  "date": "Jun 2023",
+  "img": "img/udemy-photoshop.jpg",
+  "verify": "https://ude.my/UC-ca4f5dd0-7a26-4ed1-9bd5-1b3168511c35"
+ },
+ {
+  "title": "Design Instagram Posts in Canva",
+  "issuer": "Udemy",
+  "date": "Nov 2022",
+  "img": "img/udemy-canva.jpg",
+  "verify": "https://ude.my/UC-91471415-ab04-40b6-a5a8-aa9b4e4fb4a9"
+ }
+]

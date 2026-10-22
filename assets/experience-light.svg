@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="484" viewBox="0 0 1200 484" role="img" aria-label="Experience, education and leadership">
+  <title>Experience, education and leadership</title>
+  <style>
+  .serif { font-family: Georgia, 'Iowan Old Style', 'Times New Roman', serif; }
+  .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Helvetica, Arial, sans-serif; }
+  .mono { font-family: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Consolas, monospace; }
+  .up { opacity: 0; animation: up 1s cubic-bezier(.2,.7,.2,1) forwards; }
+  @keyframes up { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  .draw { animation: draw 1.4s cubic-bezier(.4,0,.2,1) forwards; }
+  @keyframes draw { to { stroke-dashoffset: 0; } }
+  @media (prefers-reduced-motion: reduce) {
+    * { animation: none !important; opacity: 1 !important; stroke-dashoffset: 0 !important; }
+  }
+</style>
+  <rect x=".5" y=".5" width="1199" height="483" rx="16" fill="#ffffff" stroke="#d0d7de"/>
+  <line x1="724" y1="48" x2="724" y2="444" stroke="#d0d7de"/>
+  <line x1="77" y1="106" x2="77" y2="426" stroke="#d0d7de" stroke-width="1.2" stroke-dasharray="320" stroke-dashoffset="320" class="draw" style="animation-delay:.1s"/>
+  <g class="up" style="animation-delay:0.00s"><line x1="72" y1="60" x2="98" y2="60" stroke="#59636e" stroke-width="1.2"/><text class="sans" x="110" y="64" font-size="12" letter-spacing="2.6" fill="#59636e">EXPERIENCE</text></g>
+  <g class="up" style="animation-delay:0.15s"><circle cx="77" cy="106" r="5" fill="#ffffff" stroke="#1f2328" stroke-width="1.6"/><text class="serif" x="100" y="112" font-size="22" fill="#1f2328">Founder</text><text class="mono" x="704" y="110" font-size="12.5" text-anchor="end" fill="#59636e">Aug 2026 – Present</text><text class="sans" x="100" y="136" font-size="14" font-weight="600" fill="#1f2328">Notorify</text><text class="sans" x="100" y="162" font-size="15" fill="#59636e">Gets businesses covered in online news outlets. A journalist writes the</text><text class="sans" x="100" y="184" font-size="15" fill="#59636e">story, the client approves it, and it goes live across news sites in their</text><text class="sans" x="100" y="206" font-size="15" fill="#59636e">market, with a report on every placement.</text></g>
+  <g class="up" style="animation-delay:0.30s"><circle cx="77" cy="256" r="5" fill="#ffffff" stroke="#1f2328" stroke-width="1.6"/><text class="serif" x="100" y="262" font-size="22" fill="#1f2328">Agentic AI Intern</text><text class="mono" x="704" y="260" font-size="12.5" text-anchor="end" fill="#59636e">Aug 2026 – Oct 2026</text><text class="sans" x="100" y="286" font-size="14" font-weight="600" fill="#1f2328">AiOO · Dubai, remote</text></g>
+  <g class="up" style="animation-delay:0.45s"><circle cx="77" cy="340" r="5" fill="#ffffff" stroke="#1f2328" stroke-width="1.6"/><text class="serif" x="100" y="346" font-size="22" fill="#1f2328">AI &amp; ML · AI Automation Intern</text><text class="mono" x="704" y="344" font-size="12.5" text-anchor="end" fill="#59636e">Jul 2025 – Aug 2025</text><text class="sans" x="100" y="370" font-size="14" font-weight="600" fill="#1f2328">Devoteam · Rabat</text><text class="sans" x="100" y="396" font-size="15" fill="#59636e">Shipped a multilingual AI medical assistant and a medication reminder engine</text><text class="sans" x="100" y="418" font-size="15" fill="#59636e">on n8n and LLM pipelines.</text></g>
+  <g class="up" style="animation-delay:0.20s"><line x1="760" y1="60" x2="786" y2="60" stroke="#59636e" stroke-width="1.2"/><text class="sans" x="798" y="64" font-size="12" letter-spacing="2.6" fill="#59636e">EDUCATION</text></g>
+  <g class="up" style="animation-delay:0.30s"><text class="serif" x="760" y="108" font-size="18" fill="#1f2328">Data Science &amp; AI</text><text class="mono" x="1128" y="130" font-size="12.5" text-anchor="end" fill="#59636e">2026 – 2029</text><text class="sans" x="760" y="130" font-size="14" fill="#59636e">ENSA Fès</text></g>
+  <g class="up" style="animation-delay:0.42s"><text class="serif" x="760" y="164" font-size="18" fill="#1f2328">Computer &amp; Information Sciences</text><text class="mono" x="1128" y="186" font-size="12.5" text-anchor="end" fill="#59636e">2024 – 2026</text><text class="sans" x="760" y="186" font-size="14" fill="#59636e">ENSA Al Hoceima</text></g>
+  <g class="up" style="animation-delay:0.40s"><line x1="760" y1="238" x2="786" y2="238" stroke="#59636e" stroke-width="1.2"/><text class="sans" x="798" y="242" font-size="12" letter-spacing="2.6" fill="#59636e">LEADERSHIP</text></g>
+  <g class="up" style="animation-delay:0.54s"><text class="serif" x="760" y="286" font-size="18" fill="#1f2328">Lead Designer</text><text class="mono" x="1128" y="308" font-size="12.5" text-anchor="end" fill="#59636e">Oct 2026 – Present</text><text class="sans" x="760" y="308" font-size="14" fill="#59636e">GDG on Campus ENSA Fès</text></g>
+  <g class="up" style="animation-delay:0.66s"><text class="serif" x="760" y="342" font-size="18" fill="#1f2328">Designer</text><text class="mono" x="1128" y="364" font-size="12.5" text-anchor="end" fill="#59636e">Sep 2025 – Mar 2026</text><text class="sans" x="760" y="364" font-size="14" fill="#59636e">01 Club ENSAH</text></g>
+  <g class="up" style="animation-delay:0.78s"><text class="serif" x="760" y="398" font-size="18" fill="#1f2328">Sponsorship Coordinator</text><text class="mono" x="1128" y="420" font-size="12.5" text-anchor="end" fill="#59636e">Mar 2025 – Jun 2025</text><text class="sans" x="760" y="420" font-size="14" fill="#59636e">Enactus ENSAH</text></g>
+</svg>

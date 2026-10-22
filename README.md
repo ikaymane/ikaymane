@@ -1,130 +1,89 @@
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/header-light.svg"><img alt="Aymane Idrissi Khamlichi — Building AI systems. Automating real work." src="assets/header-light.svg" width="100%"></picture>
 
-# Aymane Idrissi Khamlichi
-### AI & Automation Builder · Engineering Student · Freelancer
+<p align="center">
+  <a href="https://www.linkedin.com/in/ikaymane/">LinkedIn</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="mailto:khamaymane@gmail.com">Email</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://notorify.com">Notorify</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://luxiohome.com">LuxioHome</a>&nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://github.com/ikaymane/design-portfolio">Design portfolio</a>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ikaymane-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/ikaymane)
-[![Email](https://img.shields.io/badge/Email-khamaymane@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:khamaymane@gmail.com)
-[![Website](https://img.shields.io/badge/Website-luxiohome.com-58a6ff?style=flat-square&logo=globe&logoColor=white)](https://luxiohome.com)
-![Location](https://img.shields.io/badge/Based_in-Rabat,_Morocco-2ea043?style=flat-square&logo=googlemaps&logoColor=white)
+<br>
 
-</div>
+### About
 
----
+I build AI agents and LLM-powered products: systems that watch, decide and ship real work without anyone pressing a button.
 
-## 👋 About Me
+I study **Data Science & AI at ENSA Fès** (2026–2029), after two years of Computer & Information Sciences at ENSA Al Hoceima. I founded **[Notorify](https://notorify.com)**, which gets businesses covered in online news outlets, and lead design for **GDG on Campus ENSA Fès**. Before that, I interned in agentic AI at **AiOO** (Dubai, remote) and in AI automation at **Devoteam**.
 
-I'm a **19-year-old engineering student** at ENSAH (Computer & Information Sciences, 2024–2029) and a self-taught builder with **5+ years of hands-on experience** in digital business and technology.
+<br>
 
-Since age 14, I've built and operated ventures across e-commerce, automation, design, and AI — long before any classroom taught me to. My path is defined by one thing: **I build things that actually work.**
+### Experience
 
-In 2025, I completed an internship at **Devoteam** where I designed and deployed a multilingual AI medical assistant and medication reminder system using n8n automation and LLM-powered pipelines.
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/experience-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/experience-light.svg"><img alt="Experience, education and leadership" src="assets/experience-light.svg" width="100%"></picture>
 
----
+<br>
 
-## 🛠️ Tech Stack
+### Projects
 
-**AI & Automation**
+<p>
+  <a href="https://www.linkedin.com/in/ikaymane/details/projects/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-operion-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-operion-light.svg"><img alt="Operion" src="assets/card-operion-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ikaymane/Deflake"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-deflake-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-deflake-light.svg"><img alt="Deflake" src="assets/card-deflake-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ikaymane/token-pulsar"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-token-pulsar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-token-pulsar-light.svg"><img alt="Token Pulsar" src="assets/card-token-pulsar-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ikaymane/ika-tracker"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ika-tracker-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-ika-tracker-light.svg"><img alt="IKA Tracker" src="assets/card-ika-tracker-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ikaymane/ai-medical-assistant"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ai-medical-assistant-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-ai-medical-assistant-light.svg"><img alt="AI Medical Assistant" src="assets/card-ai-medical-assistant-light.svg" width="49%"></picture></a>
+  <a href="https://luxiohome.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-luxiohome-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-luxiohome-light.svg"><img alt="LuxioHome" src="assets/card-luxiohome-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ikaymane/mario-rl-agent"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-mario-rl-agent-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-mario-rl-agent-light.svg"><img alt="Mario RL Agent" src="assets/card-mario-rl-agent-light.svg" width="49%"></picture></a>
+  <a href="https://github.com/ikaymane/foody-app"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-foody-app-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/card-foody-app-light.svg"><img alt="Foody" src="assets/card-foody-app-light.svg" width="49%"></picture></a>
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Make](https://img.shields.io/badge/Make.com-6D00CC?style=flat-square&logo=integromat&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+**Also on GitHub:** [Design portfolio](https://github.com/ikaymane/design-portfolio) (posters and visual identity) · [Gold trading analysis](https://github.com/ikaymane/gold-trading-analysis) (XAUUSD market structure, Python) · [Hackathon starter kit](https://github.com/ikaymane/Hackathon-) (LangGraph + FastAPI agent template)
 
-**Web & Cloud**
+<br>
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+### Stack
 
-**Data & ML**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img alt="Tech stack" src="assets/stack-light.svg" width="100%"></picture>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
+<br>
 
-**Design**
+### Certifications
 
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
-![Illustrator](https://img.shields.io/badge/Illustrator-FF9A00?style=flat-square&logo=adobeillustrator&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
+<a href="https://ikaymane.github.io/ikaymane/certificates/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/certs-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/certs-light.svg"><img alt="16 certificates" src="assets/certs-light.svg" width="100%"></picture></a>
 
----
+<p align="center"><a href="https://ikaymane.github.io/ikaymane/certificates/"><b>Open the interactive certificate wall ↗</b></a></p>
 
-## 🚀 Featured Projects
+<details>
+<summary>Details and verification links</summary>
+<br>
 
-### 🏥 Multilingual AI Medical Assistant & Medication Reminder System
-> **Devoteam Internship · Jul–Aug 2025**
+| Certificate | Issuer | Date | Verify |
+|---|---|---|---|
+| Introduction to Cybersecurity | Cisco Networking Academy | Jul 2026 | — |
+| The AI Filmmaking Pipeline | Higgsfield Academy | Jul 2026 | — |
+| Professional Foundations | ALX | May 2026 | [Verify](https://savanna.alxafrica.com/certificates/z8YyH3ETne) |
+| Introduction to Agent Skills | Anthropic | May 2026 | — |
+| Claude Code in Action | Anthropic | Apr 2026 | [Verify](https://verify.skilljar.com/c/p9f796k6abmh) |
+| Crash Course: AWS Basics | KodeKloud | Feb 2026 | — |
+| Git and GitHub | 365 Data Science | Nov 2025 | — |
+| ChatGPT for SQL Beginners | 365 Data Science | Nov 2025 | — |
+| Google AI Essentials | Google · Coursera | Nov 2025 | [Verify](https://coursera.org/verify/5XQ6B7K920MT) |
+| Data Analysis with ChatGPT | 365 Data Science | Nov 2025 | — |
+| Understanding Data Science | DataCamp | Nov 2025 | — |
+| AI Fundamentals | DataCamp | Nov 2025 | — |
+| AI Career Essentials | ALX | Aug 2024 | [Verify](https://intranet.alxswe.com/certificates/mnM38Y7BSf) |
+| Master Adobe Illustrator: Logos and Graphics | Udemy | Mar 2024 | [Verify](https://ude.my/UC-c4046809-ad0d-4c4f-ac72-a07e82c4d784) |
+| Adobe Photoshop CC: Basic Training | Udemy | Jun 2023 | [Verify](https://ude.my/UC-ca4f5dd0-7a26-4ed1-9bd5-1b3168511c35) |
+| Design Instagram Posts in Canva | Udemy | Nov 2022 | [Verify](https://ude.my/UC-91471415-ab04-40b6-a5a8-aa9b4e4fb4a9) |
 
-An AI-powered healthcare automation system combining a multilingual medical assistant with an intelligent medication reminder engine — built with n8n, LLM APIs, and custom workflow logic.
+</details>
 
-`n8n` `AI Automation` `LLM` `Healthcare` `Multilingual NLP`
+<br>
 
----
+### Activity
 
-### 📈 Gold & Financial Markets Trading
-> **Active since 2022**
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/activity-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/activity-light.svg"><img alt="Contribution activity" src="assets/activity-light.svg" width="100%"></picture>
 
-Actively trading gold (XAUUSD) and financial instruments since 2022. Combining technical analysis, market structure, and risk management to operate consistently in live markets.
+<br>
 
-`Gold Trading` `XAUUSD` `Technical Analysis` `Risk Management` `Market Structure`
-
----
-
-### 🎮 Reinforcement Learning Agent — Super Mario Bros
-> **Devoteam Internship · 2025**
-
-Trained an RL agent to play Super Mario Bros from scratch using OpenAI Gym and policy gradient methods.
-
-`Python` `Reinforcement Learning` `OpenAI Gym` `Deep Learning`
-
----
-
-## 📜 Certifications
-
-| Certificate | Issuer | Year |
-|---|---|---|
-| Google AI Essentials | Google | 2025 |
-| Machine Learning Crash Course | Google | 2025 |
-| AI Career Essentials | ALX Africa | 2024 |
-| AI Fundamentals | DataCamp | 2025 |
-| Understanding Data Science | DataCamp | 2025 |
-| Data Analysis with ChatGPT | 365 Data Science | 2025 |
-| Git & GitHub | 365 Data Science | 2025 |
-| AWS Basics | KodeKloud | 2026 |
-| Adobe Photoshop CC | Udemy | 2023 |
-| Adobe Illustrator Logo Design | Udemy | 2024 |
-
----
-
-## 💼 Experience
-
-**AI & ML Intern** @ [Devoteam](https://www.devoteam.com/) *(Jul 2025 – Aug 2025)*
-Built production AI automation workflows, trained RL agents, and studied transformer models and prompt engineering.
-
-**Freelancer — AI & Automation** *(2021 – Present)*
-Custom n8n/Make.com automation solutions, AI-powered assistants, and digital business consulting.
-
-**Digital Business Builder** *(2019 – Present)*
-eBay dropshipping · Shopify/WordPress · Merch by Amazon · KDP · NFT · Crypto trading · SMM
-
----
-
-## 🏫 Volunteering
-
-- **Sponsorship Coordinator** — Club Enactus ENSAH *(Mar–Jun 2025)*
-- **Designer** — 01 Club ENSAH *(Sep 2025 – Mar 2026)*
-
----
-
-<div align="center">
-
-*"I don't wait to learn — I build until I do."*
-
-![Visitors](https://komarev.com/ghpvc/?username=ikaymane&color=58a6ff&style=flat-square&label=Profile+Views)
-
----
-*Rabat, Morocco 🇲🇦*
-
-</div>
+<p align="center"><sub>Rabat, Morocco · <a href="mailto:khamaymane@gmail.com">khamaymane@gmail.com</a></sub></p>
